@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Specialized AI Agents for Vertical Markets
+slug: specialized-ai-agents-for-vert
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: specialized-ai-agents-for-vert.msx.dev
